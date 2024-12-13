@@ -26,6 +26,3 @@ def main():
         print(chickenpox_by_sex())
     else:
         print("Некорректный номер задания. Пожалуйста, введите 1.")
-
-if __name__ == "__main__":
-    main()
